@@ -20,7 +20,7 @@
     "dojo": "2.0.0-alpha.7",
     "glob": "7.0.3",
     "istanbul": "0.4.1",
-    "leadfoot": "vladikoff/leadfoot#1.7.1-noDynamicViewport",
+    "leadfoot": "vladikoff/leadfoot#1.7.1-noDynamicViewportAndUpdateWindowHandles",
     "lodash-amd": "4.16.4",
     "mimetype": "0.0.8",
     "platform": "1.3.1",
